@@ -1,0 +1,38 @@
+body {
+    background-color: lightgray;
+    font-family: Arial;
+  }
+  
+  header {
+    background-color: brown;
+    color: white;
+    text-align: center;
+    padding: 15px;
+  }
+  
+  nav a {
+    color: white;
+    margin: 8px;
+  }
+  
+  section {
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+  }
+  
+  h2 {
+    color: brown;
+  }
+  
+  img {
+    width: 500px;
+    max-width: 100%;
+  }
+  
+  footer {
+    background-color: brown;
+    color: white;
+    text-align: center;
+    padding: 10px;
+  }
